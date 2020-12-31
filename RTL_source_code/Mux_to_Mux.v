@@ -1,5 +1,5 @@
 module Mux_to_Mux(a, b, c, d, e, f, g,
-		s0, s1, Sel, y);
+		  s0, s1, Sel, y);
 					
 input a, b, c, d, e, f, g;
 input s0, s1;
