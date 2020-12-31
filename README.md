@@ -8,6 +8,7 @@ The following are the logic circuits written in VHDL:
 - Circuit that can detect sequence "100" [[Code]](RTL_source_code/Sequence_Detector.vhd)
 - Multiplexer (8-bit) using when-else [[Code]](RTL_source_code/Mux_8_Bit_When_Else.vhd)
 - Multiplexer (8-bit) using with-sel-when [[Code]](RTL_source_code/Mux_8_Bit_With_Sel_When.vhd)
+- An arbitrary digital logic circuit [[Code]](RTL_source_code/LogicCircuit.vhd)
 
 ## Verilog
 The following are the logic circuits written in Verilog:
